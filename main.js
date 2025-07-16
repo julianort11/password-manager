@@ -9,7 +9,7 @@ console.clear();
 console.log(chalk.greenBright("╔═══════════════════════════════════════╗"));
 console.log(chalk.greenBright("║"+ chalk.green("+-------------------------------------+")+"║"));
 console.log(chalk.greenBright("║" + ("            ")+ chalk.bold.red("PASSWORD MANAGER")+("           ")+"║"));
-console.log(chalk.greenBright("║"+ chalk.green("+-------------------------|------------+")+"║"));
+console.log(chalk.greenBright("║"+ chalk.green("+-------------------------------------+")+"║"));
 console.log(chalk.greenBright("╚═══════════════════════════════════════╝\n"));
 async function main() {
     const opciones = await inquirer.prompt([

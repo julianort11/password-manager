@@ -57,5 +57,11 @@ node main.js
 ```
 🖼️ Captura de pantalla
 
-![Captura del menú](image.png)
+![Captura del menú](image.png)44
 
+### VIDEO EXPLICATIVO
+
+https://youtu.be/zob_PX4S1II
+
+# AUTOR
+Jose Julian Ortega Navarro 
